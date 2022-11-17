@@ -1,4 +1,4 @@
-# ps-vita-lua-security-bypass
+# Ps Vita Lua Security Bypass
 (POC) Install unsafe application to Playstation Vita without any user action and confirmation dialog  
   
 HOW TO USE:  
